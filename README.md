@@ -27,5 +27,7 @@ Data Analyst around 4 years of experience supporting strategic and operational d
 ### 📊 Automation Tracker 
 **Tools:** Power BI
 This 3-page interactive report is designed to measure the real business value of process automation. Instead of just reporting transactions, it focuses on time savings, cost reduction, efficiency, and ROI.
-🔗 [View Project](https://github.com/vemasani-chethana/Chethana-Portfolio/blob/main/Images/Automation%20tracker%20V1.pdf)
+🔗 Automation Tracker V1 - [View Project](https://github.com/vemasani-chethana/Chethana-Portfolio/blob/main/Images/Automation%20tracker%20V1.pdf)
+🔗 Automation Tracker V2 - [View Project](https://github.com/vemasani-chethana/Chethana-Portfolio/blob/main/Images/Automation%20tracker%20V2.pdf)
+
 ## 
