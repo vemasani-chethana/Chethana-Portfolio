@@ -1,2 +1,2 @@
-# Chethana-Portfolio
-# Chethana Vemasani – Data Analyst Portfolio  I am a Data Analyst with experience in SQL, Python, and Power BI. I specialize in transforming raw data into meaningful insights that support data-driven decision-making.
+# Chethana Vemasani – Data Analyst Portfolio 
+Data Analyst around 4 years of experience supporting strategic and operational decision-making through advanced SQL- and Python-based analytics, automated reporting, and data quality governance. Strong background in data modeling, ETL workflows, KPI development, and dashboarding to enable finance, operations, and supply chain insights. Proven ability to translate complex datasets into clear, actionable business narratives and collaborate effectively with engineering, finance, and operations stakeholders in enterprise environments.
